@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "muse_development",
+            "dialect": "PostgreSQL",
+            "name": "muse-connection",
+            "password": "0000",
+            "port": 5432,
+            "server": "localhost",
+            "username": "mashaelmohammed"
+        }
+    ]
+}
