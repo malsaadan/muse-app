@@ -16,6 +16,13 @@ gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 
+gem 'devise'
+
+# Use Bootstrap4
+gem 'bootstrap', '~> 4.3.1'
+# Use jQuery
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
+
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
 # Use Redis adapter to run Action Cable in production

@@ -1,0 +1,21 @@
+// Place all the styles related to the artists controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+html, body {
+    background: #282727;
+    h1 {
+        color: white;
+    }
+}
+a {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+a:hover{
+    color: red;
+}
